@@ -1,0 +1,58 @@
+name: jackie.lynch
+description: optimizing
+version: 0.0.1
+author: 1xssloei.wt4kbnn9@8v82jm1o.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: jackielynch
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:32:40'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:32:40'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:32:40.128036Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1108079755'
+  createdAt: '2025-09-19T23:32:40.128036Z'
+  type: plibMaven
+projectDependencies:
+  '235':
+    projectUID: 235
+    projectName: barrett.farrell
+    repositoryPath: gitUri=http://gitserver:3000/dev_9t1rd0m3_team_379/dev_9t1rd0m3_project_235.git&subPath=
+    version: barrett.farrell/4.95.24
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:32:39'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
